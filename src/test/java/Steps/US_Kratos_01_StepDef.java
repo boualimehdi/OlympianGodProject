@@ -8,7 +8,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
 
-public class KratosStepDef {
+public class US_Kratos_01_StepDef {
 
     private Human human;
     private OlympianGod god;
@@ -51,4 +51,6 @@ public class KratosStepDef {
         Assert.assertTrue(this.god.isHuman());
         Assert.assertTrue(this.god.getMortality());
     }
+
+
 }

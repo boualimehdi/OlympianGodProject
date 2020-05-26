@@ -10,3 +10,8 @@ Feature: Kratos feature
     And kratos becomes immortal
     And Ares loses his title
     And Ares becomes mortal human
+
+
+
+
+

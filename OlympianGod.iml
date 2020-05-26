@@ -21,7 +21,6 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" exported="" name="io.cucumber:cucumber-java8:2.0.0" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:cucumber-java:5.5.0" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:cucumber-core:5.5.0" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin:5.5.0" level="project" />
@@ -32,5 +31,6 @@
     <orderEntry type="library" name="Maven: io.cucumber:cucumber-plugin:5.5.0" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:docstring:5.5.0" level="project" />
     <orderEntry type="library" name="Maven: org.apiguardian:apiguardian-api:1.1.0" level="project" />
+    <orderEntry type="library" exported="" name="io.cucumber:cucumber-java:5.0.0" level="project" />
   </component>
 </module>
